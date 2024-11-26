@@ -299,5 +299,3 @@ The exploratory data analysis of the Spotify tracks dataset provided valuable in
 *This project demonstrates comprehensive exploratory data analysis techniques applied to a rich dataset of Spotify tracks. The findings highlight potential applications in music recommendation systems, marketing strategies, and provide a foundation for further research in music analytics.*
 
 ---
-
-You can copy and paste this markdown code directly into your `README.md` file on GitHub.
