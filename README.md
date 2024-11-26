@@ -1,7 +1,4 @@
-Sure! Here’s the markdown code for your documentation:
-
 # Project Sound Wave: Spotify Tracks Exploratory Data Analysis
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
